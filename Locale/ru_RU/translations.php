@@ -3,6 +3,9 @@
 return array(
     'Sort by position' => 'Сортировать по позиции',
     'Sort by date' => 'Сортировать по дате',
+    'Sort tasks by position' => 'Сортировать задачи по должности',
+    'Sort tasks by date' => 'Сортировать задачи по дате',
+    'Gantt settings' => 'Настройки диаграммы Ганта',
     'Add task' => 'Добавить задачу',
     'There is no start date or due date for this task.' => 'Для этой задачи нет даты начала или завершения.',
     'Moving or resizing a task will change the start and due date of the task.' => 'Изменение или перемещение задачи повлечет изменение даты начала и завершения задачи.',
@@ -15,4 +18,3 @@ return array(
     'Projects Gantt chart' => 'Диаграмма Ганта проектов',
     'Switch to the Gantt chart view' => 'Переключиться в режим диаграммы Ганта',
 );
-
